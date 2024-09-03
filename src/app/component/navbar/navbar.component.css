@@ -1,6 +1,10 @@
 .navbar {
-    background-color: #73deef;
+    /* background-color: #73deef; */
+    background: radial-gradient(circle, #e1b382, #c89666, #2d545e, #12343b);
+
     overflow: hidden;
+    text-align: center;
+    justify-content: center;
 }
 
 .navbar ul {
@@ -21,9 +25,10 @@
     text-decoration: none;
 }
 
+/* 
 .navbar ul li a:hover {
     background-color: #6ffaff;
-}
+} */
 
 .active {
     font-weight: bold;
