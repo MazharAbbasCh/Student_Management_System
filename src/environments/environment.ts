@@ -4,14 +4,14 @@
 
 export const environment = {
   production: false,
-  firebase : {
-    apiKey: "AIzaSyDbhdWawp0lmRKtCzg_0jmA_dy_pk2gKfg",
-    authDomain: "hotel-management-3390d.firebaseapp.com",
-    projectId: "hotel-management-3390d",
-    storageBucket: "hotel-management-3390d.appspot.com",
-    messagingSenderId: "1010076842792",
-    appId: "1:1010076842792:web:a1f076a7eb815a0aae6e1d"
-  }
+  firebase: {
+    apiKey: "AIzaSyDa3yAXXJkNxqlP0axkA__f2lNF23D1wLM",
+    authDomain: "student-management-syste-7f56f.firebaseapp.com",
+    projectId: "student-management-syste-7f56f",
+    storageBucket: "student-management-syste-7f56f.appspot.com",
+    messagingSenderId: "552463118835",
+    appId: "1:552463118835:web:297c103d213072737c2286",
+  },
 };
 
 /*
